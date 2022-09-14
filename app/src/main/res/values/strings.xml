@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fluxRSS</string>
+    <string name="image_precedente">Précédent</string>
+    <string name="image_suivante">Suivant</string>
+    <string name="test_image_title">Title Image</string>
+    <string name="test_image_date">Image Date à récup</string>
+    <string name="description_image">Description IMAGE</string>
+    <string name="test_image_description">Test Image Description</string>
+</resources>
